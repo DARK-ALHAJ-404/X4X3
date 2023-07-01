@@ -1,6 +1,5 @@
 # X4X3
-- git clone
-- https://github.com/DARK-ALHAJ-404/X4X3.git
+- git clone https://github.com/DARK-ALHAJ-404/X4X3.git
 
 - cd X4X3
 
